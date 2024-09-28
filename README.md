@@ -4,6 +4,8 @@
 
 Welcome to Horizon Europe MSCA-SE TraceV2X Open Access Space. You can find our publications and organized invited talks/trainings in this repo.
 
+Project description: https://cordis.europa.eu/project/id/101131204
+
 ## Publiations
 
 The following is a list of our publications:
