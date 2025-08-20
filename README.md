@@ -30,6 +30,8 @@ The following is a list of our publications:
 
 - Professor Danda B. Rawat (Howard University, US), a keynote on "Data Driven Wireless Virtualization for Enhancing Network Security, Capacity and Energy Efficiency in NextG Wireless Networks" in DDINS 2024 workshop (https://ddinsws.wordpress.com/ddins2024/speakers/)
   - This event is jointly organized by EU H2020 MSCA-RISE SwiftV2X Project
+- Dr Mahdi Boloursaz Mashhadi (University of Surrey), a keynote on "Goal-Oriented Generative Semantic Communications with V2X Applications" in DDINS 2025 workshop (https://ddinsws.wordpress.com/ddins2025/speakers/)
+  - This event is jointly organized by EU H2020 MSCA-RISE SwiftV2X Project
 
 
 ## Result Dissemination
