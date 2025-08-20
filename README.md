@@ -10,7 +10,8 @@ Project description: https://cordis.europa.eu/project/id/101131204
 
 The following is a list of our publications:
 
-- (not yet available)
+- Dawei Nie, Wenjuan Yu, Chuan Heng Foh, Qiang Ni, "A NOMA-Enhanced 2-Step RACH Procedure for Low-Latency Access in 5G Networks," IEEE Internet of Things Journal, accepted
+- Di Wang, Yue Cao, Kwok-Yan Lam, Chi-Hung Chi, Kim-Kwang Raymond Choo, "An Accountable GAKA Protocol With Changeable Thresholds and Verifiable Shares in UAVs-Assisted IoVs for Emergency Rescue," IEEE Transactions on Intelligent Transportation Systems, accepted
 
   
 ## Invited Talks/Trainings
