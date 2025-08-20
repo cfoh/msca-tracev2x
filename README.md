@@ -14,7 +14,15 @@ The following is a list of our publications:
 - D. Wang, Y. Cao, K. -Y. Lam, C. -H. Chi and K. -K. R. Choo, "An Accountable GAKA Protocol With Changeable Thresholds and Verifiable Shares in UAVs-Assisted IoVs for Emergency Rescue," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 4, pp. 5522-5537, April 2025, doi: 10.1109/TITS.2025.3531383.
 - X. Li, Y. Cao, Z. Hu, X. Zhang, H. Lin and Z. Liu, "An Integrated Framework on Autonomous Valet Parking and Battery Swapping Service Considering Malicious False Data Injection Attack," in IEEE Transactions on Transportation Electrification, vol. 11, no. 1, pp. 3806-3822, Feb. 2025, doi: 10.1109/TTE.2024.3447024.
 - Y. Song, Y. Cao, C. Cheong, D. He, K. -K. Raymond Choo and J. Wang, "CAT: A Consensus-Adaptive Trust Management Based on the Group Decision Making in IoVs," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7730-7743, 2024, doi: 10.1109/TIFS.2024.3442611.
+- S. Li, Y. Cao, H. J. Hadi, F. Hao, F. B. Hussain and L. Chen, "ECF-IDS: An Enhanced Cuckoo Filter-Based Intrusion Detection System for In-Vehicle Network," in IEEE Transactions on Network and Service Management, vol. 21, no. 4, pp. 3846-3860, Aug. 2024, doi: 10.1109/TNSM.2024.3394842.
+- Z. Wang, Y. Cao, H. Zhou, L. Wu, W. Wang and G. Min, "Fairness-Aware Two-Stage Hybrid Sensing Method in Vehicular Crowdsensing," in IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 11971-11988, Dec. 2024, doi: 10.1109/TMC.2024.3408751.
+- Y. Zhang, C. Cheong, S. Li, Y. Cao, X. Zhang, D. Liu, "False message detection in Internet of Vehicle through machine learning and vehicle consensus," Information Processing Management, Volume 61, Issue 6, November 2024.
 - 
+
+
+
+
+
 
 
 
