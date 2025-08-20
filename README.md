@@ -29,6 +29,7 @@ The following is a list of our publications:
 ## Invited Talks/Trainings
 
 - Professor Danda B. Rawat (Howard University, US), a keynote on "Data Driven Wireless Virtualization for Enhancing Network Security, Capacity and Energy Efficiency in NextG Wireless Networks" in DDINS 2024 workshop (https://ddinsws.wordpress.com/ddins2024/speakers/)
+  - This event is jointly organized by EU H2020 MSCA-RISE SwiftV2X Project
 
 
 ## Result Dissemination
