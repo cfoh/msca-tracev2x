@@ -21,7 +21,9 @@ The following is a list of our publications:
 - C. Lv, C. Cheong, Y. Cao, Y. Wang, O. Kaiwartya and C. Wu, "Leveraging Geographic Information and Social Indicators for Misbehavior Detection in VANETs," in IEEE Transactions on Consumer Electronics, vol. 70, no. 1, pp. 4411-4424, Feb. 2024, doi: 10.1109/TCE.2024.3365616.
 - C. Cheong, Y. Song, Y. Cao, Y. Zhang, B. Cai and Q. Ni, "Multidimensional Trust Evidence Fusion and Path-Backtracking Mechanism for Trust Management in VANETs," in IEEE Internet of Things Journal, vol. 11, no. 10, pp. 18619-18634, 15 May15, 2024, doi: 10.1109/JIOT.2024.3363755.
 - H. J. Hadi, Y. Cao, S. Li, L. Xu, Y. Hu, M. Li, "Real-time fusion multi-tier DNN-based collaborative IDPS with complementary features for secure UAV-enabled 6G networks," Expert Systems with Applications, Volume 252, Part B, 15 October 2024.
-
+- C. Cheong, Y. Song, Y. Zhang, Y. Cao, C. Y. Leow and X. Wang, "A Path-Backtracking-Based Trust Management Scheme for VANETs," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-6, doi: 10.1109/VTC2024-Spring62846.2024.10683137.
+- J. Zhou, S. Li, Y. Cao, H. J. Hadi and H. Lin, "Robust Intrusion Detection System in CAN Bus through Multi-Scale Feature Fusion," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 1316-1321, doi: 10.1109/ICC51166.2024.10623113.
+- S. A. Soleymani, M. Shojafar, C. H. Foh, S. Goudarzi and W. Wang, "Secure Target-Tracking by UAVs in O-RAN Environment," 2024 IFIP Networking Conference (IFIP Networking), Thessaloniki, Greece, 2024, pp. 204-212, doi: 10.23919/IFIPNetworking62109.2024.10619786.
 
   
 ## Invited Talks/Trainings
