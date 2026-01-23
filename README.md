@@ -10,9 +10,10 @@ Project description: https://cordis.europa.eu/project/id/101131204
 
 The following is a list of our publications:
 
-- D. Nie, W. Yu, C. H. Foh and Q. Ni, "A NOMA-Enhanced Two-Step RACH Procedure for Low-Latency Access in 5G Networks," in IEEE Internet of Things Journal, vol. 12, no. 9, pp. 11568-11580, 1 May1, 2025, doi: 10.1109/JIOT.2024.3521340.
+- D. Nie, W. Yu, C. H. Foh and Q. Ni, "A NOMA-Enhanced Two-Step RACH Procedure for Low-Latency Access in 5G Networks," in IEEE Internet of Things Journal, vol. 12, no. 9, pp. 11568-11580, May 2025, doi: 10.1109/JIOT.2024.3521340. [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10841820)
 - D. Wang, Y. Cao, K. -Y. Lam, C. -H. Chi and K. -K. R. Choo, "An Accountable GAKA Protocol With Changeable Thresholds and Verifiable Shares in UAVs-Assisted IoVs for Emergency Rescue," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 4, pp. 5522-5537, April 2025, doi: 10.1109/TITS.2025.3531383.
 - X. Li, Y. Cao, Z. Hu, X. Zhang, H. Lin and Z. Liu, "An Integrated Framework on Autonomous Valet Parking and Battery Swapping Service Considering Malicious False Data Injection Attack," in IEEE Transactions on Transportation Electrification, vol. 11, no. 1, pp. 3806-3822, Feb. 2025, doi: 10.1109/TTE.2024.3447024.
+- A. K. Yadav, M. Shojafar and A. Braeken, "iVFAS: An Improved Vehicle-to-Fog Authentication System for Secure and Efficient Fog-Based Road Condition Monitoring," in IEEE Transactions on Vehicular Technology, vol. 73, no. 9, pp. 12570-12584, Sept. 2024, doi: 10.1109/TVT.2024.3390607. [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504628)
 - Y. Song, Y. Cao, C. Cheong, D. He, K. -K. Raymond Choo and J. Wang, "CAT: A Consensus-Adaptive Trust Management Based on the Group Decision Making in IoVs," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7730-7743, 2024, doi: 10.1109/TIFS.2024.3442611.
 - S. Li, Y. Cao, H. J. Hadi, F. Hao, F. B. Hussain and L. Chen, "ECF-IDS: An Enhanced Cuckoo Filter-Based Intrusion Detection System for In-Vehicle Network," in IEEE Transactions on Network and Service Management, vol. 21, no. 4, pp. 3846-3860, Aug. 2024, doi: 10.1109/TNSM.2024.3394842.
 - Z. Wang, Y. Cao, H. Zhou, L. Wu, W. Wang and G. Min, "Fairness-Aware Two-Stage Hybrid Sensing Method in Vehicular Crowdsensing," in IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 11971-11988, Dec. 2024, doi: 10.1109/TMC.2024.3408751.
@@ -23,7 +24,7 @@ The following is a list of our publications:
 - H. J. Hadi, Y. Cao, S. Li, L. Xu, Y. Hu, M. Li, "Real-time fusion multi-tier DNN-based collaborative IDPS with complementary features for secure UAV-enabled 6G networks," Expert Systems with Applications, Volume 252, Part B, 15 October 2024.
 - C. Cheong, Y. Song, Y. Zhang, Y. Cao, C. Y. Leow and X. Wang, "A Path-Backtracking-Based Trust Management Scheme for VANETs," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-6, doi: 10.1109/VTC2024-Spring62846.2024.10683137.
 - J. Zhou, S. Li, Y. Cao, H. J. Hadi and H. Lin, "Robust Intrusion Detection System in CAN Bus through Multi-Scale Feature Fusion," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 1316-1321, doi: 10.1109/ICC51166.2024.10623113.
-- S. A. Soleymani, M. Shojafar, C. H. Foh, S. Goudarzi and W. Wang, "Secure Target-Tracking by UAVs in O-RAN Environment," 2024 IFIP Networking Conference (IFIP Networking), Thessaloniki, Greece, 2024, pp. 204-212, doi: 10.23919/IFIPNetworking62109.2024.10619786.
+- S. A. Soleymani, M. Shojafar, C. H. Foh, S. Goudarzi and W. Wang, "Secure Target-Tracking by UAVs in O-RAN Environment," 2024 IFIP Networking Conference (IFIP Networking), Thessaloniki, Greece, 2024, pp. 204-212, doi: 10.23919/IFIPNetworking62109.2024.10619786. [[pdf]](https://personalpages.surrey.ac.uk/w.wang/papers/Soleymani%20et%20al_IFIPNetworking_2024.pdf)
 
   
 ## Invited Talks/Trainings
