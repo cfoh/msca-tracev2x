@@ -44,6 +44,6 @@ Project description: https://cordis.europa.eu/project/id/101131204
 ## Result Dissemination
 
 - Visited Odine, Turkcell and Bilgem in June 2025 by UOS and Ransight
-- Visited Innova and PlanS in July by UOS and Ransight
+- Visited Innova and PlanS in July 2025 by UOS and Ransight
 
 
