@@ -41,6 +41,7 @@ Project description: https://cordis.europa.eu/project/id/101131204
 - J. Zhou, S. Li, Y. Cao, H. J. Hadi and H. Lin, "Robust Intrusion Detection System in CAN Bus through Multi-Scale Feature Fusion," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 1316-1321, doi: 10.1109/ICC51166.2024.10623113. [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623113)
 - S. A. Soleymani, M. Shojafar, C. H. Foh, S. Goudarzi and W. Wang, "Secure Target-Tracking by UAVs in O-RAN Environment," 2024 IFIP Networking Conference (IFIP Networking), Thessaloniki, Greece, 2024, pp. 204-212, doi: 10.23919/IFIPNetworking62109.2024.10619786. [[pdf]](https://personalpages.surrey.ac.uk/w.wang/papers/Soleymani%20et%20al_IFIPNetworking_2024.pdf)
 - Zhang, Keyang, Yueheng Liu, Shuohan Liu, Junqiao Gao, Yue Cao, Naveed Ahmad, and Xu Zhang, "An Urban Electric Vehicle Charging System via Hybrid Heterogeneous Modes," 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2024, pp. 1469-1476, doi: 10.1109/SMC54092.2024.10831814.
+- J. Zhou, Y. Liu, S. Li, Y. Cao, W. Chen and N. Ahmed, "Vehicular Intrusion Detection System Based on Hybrid Quantum Neural Networks," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4185-4190, doi: 10.1109/GLOBECOM52923.2024.10901777.
   
 ## Invited Talks/Trainings
 
