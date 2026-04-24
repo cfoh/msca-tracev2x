@@ -18,6 +18,7 @@ Project description: https://cordis.europa.eu/project/id/101131204
 - X. Li, Y. Cao, Z. Hu, X. Zhang, H. Lin and Z. Liu, "An Integrated Framework on Autonomous Valet Parking and Battery Swapping Service Considering Malicious False Data Injection Attack," in IEEE Transactions on Transportation Electrification, vol. 11, no. 1, pp. 3806-3822, Feb. 2025, doi: 10.1109/TTE.2024.3447024. [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643235)
 - D. Nie, W. Yu, C. H. Foh, Q. Ni, L. Chen, S. Berri, A. Chorti, H. Sun, "Efficient Context-Aware Barring Scheme for Low-Latency 2-Step RACH in 5G Networks," IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), London, United Kingdom, 2025, pp. 1-6, doi: 10.1109/INFOCOMWKSHPS65812.2025.11152747. [[download pdf]](https://durham-repository.worktribe.com/OutputFile/3546158) [[view pdf]](https://github.com/cfoh/msca-tracev2x/blob/main/infocom-ws-2025.pdf)
 - J. Hu-Bolz, M. Reed, K. Zhang, Z. Liu, J. Hu, "Federated data acquisition market: Architecture and a mean-field based data pricing strategy," High-Confidence Computing, Volume 5, Issue 1, March 2025.
+- Hu, Fang, Qiao Cheng, Lehu Wen, Wei Hu, Xuekang Liu, Qi Luo, and Steven Gao. "Design of 2-Bit Circularly Polarized Reflectarray for Broadband Vehicle Communications." IEEE Transactions on Vehicular Technology, 2025, doi: 10.1109/TVT.2025.3638699.
 
 ### The following is a list of our publications in 2024
 
