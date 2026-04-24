@@ -25,6 +25,8 @@ Project description: https://cordis.europa.eu/project/id/101131204
 - Zhang, Yetian, Chi Yen Goh, and Chee Yen Leow. "Comparative Analysis of Reconfigurable Intelligent Surfaces and Fluid Antenna System Relays for 6G." In 2025 IEEE 17th Malaysia International Conference on Communication (MICC), pp. 69-74. IEEE, 2025. [[view pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11211221)
 - D. Wang, L. Chen and F. Nait-Abdesselam, "Radar-Assisted Compressed Sensing for Enhanced Channel Estimation in V2X Communications," ICC 2025 - IEEE International Conference on Communications, Montreal, QC, Canada, 2025, pp. 6645-6650, doi: 10.1109/ICC52391.2025.11161834. [[view pdf]](https://github.com/cfoh/msca-tracev2x/blob/main/m92469-wang-final.pdf)
 - S. B. S. Abdou, C. Y. Leow, S. Won, W. K. New and C. H. Foh, "Reinforcement Learning-Aided UAV Relay with Buffer for Outage Probability Minimization," 2025 IEEE 17th Malaysia International Conference on Communication (MICC), Malacca, Malaysia, 2025, pp. 25-30, doi: 10.1109/MICC66164.2025.11211288.
+- B. Trinh-Nguyen, S. Berri, S. G. Teo, T. Truong-Huu and A. Chorti, "High-accuracy AoA-based Localization using Hierarchical ML Classifiers in Outdoor Environments," GLOBECOM 2025 - 2025 IEEE Global Communications Conference, Taipei, Taiwan, 2025, pp. 2180-2185, doi: 10.1109/GLOBECOM59602.2025.11431716. [[view pdf]](https://github.com/cfoh/msca-tracev2x/blob/main/globecom2025-1.pdf)
+
 
 
 ### The following is a list of our publications in 2024
