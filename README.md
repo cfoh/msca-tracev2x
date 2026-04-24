@@ -19,6 +19,7 @@ Project description: https://cordis.europa.eu/project/id/101131204
 - D. Nie, W. Yu, C. H. Foh, Q. Ni, L. Chen, S. Berri, A. Chorti, H. Sun, "Efficient Context-Aware Barring Scheme for Low-Latency 2-Step RACH in 5G Networks," IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), London, United Kingdom, 2025, pp. 1-6, doi: 10.1109/INFOCOMWKSHPS65812.2025.11152747. [[download pdf]](https://durham-repository.worktribe.com/OutputFile/3546158) [[view pdf]](https://github.com/cfoh/msca-tracev2x/blob/main/infocom-ws-2025.pdf)
 - J. Hu-Bolz, M. Reed, K. Zhang, Z. Liu, J. Hu, "Federated data acquisition market: Architecture and a mean-field based data pricing strategy," High-Confidence Computing, Volume 5, Issue 1, March 2025.
 - Hu, Fang, Qiao Cheng, Lehu Wen, Wei Hu, Xuekang Liu, Qi Luo, and Steven Gao. "Design of 2-Bit Circularly Polarized Reflectarray for Broadband Vehicle Communications." IEEE Transactions on Vehicular Technology, 2025, doi: 10.1109/TVT.2025.3638699. [[view pdf]](https://github.com/cfoh/msca-tracev2x/blob/main/Design_of.pdf)
+- S. Li, Y. Cao, G. Peng, M. Li, W. Sun and L. Chen, "Efficient Intrusion Detection for In-Vehicle Networks Using Knowledge Distillation From BERT to CNN-BiLSTM," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 6398-6412, 2025, doi: 10.1109/TIFS.2025.3581117. 
 
 ### The following is a list of our publications in 2024
 
