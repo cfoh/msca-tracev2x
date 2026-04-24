@@ -42,6 +42,7 @@ Project description: https://cordis.europa.eu/project/id/101131204
 - S. A. Soleymani, M. Shojafar, C. H. Foh, S. Goudarzi and W. Wang, "Secure Target-Tracking by UAVs in O-RAN Environment," 2024 IFIP Networking Conference (IFIP Networking), Thessaloniki, Greece, 2024, pp. 204-212, doi: 10.23919/IFIPNetworking62109.2024.10619786. [[pdf]](https://personalpages.surrey.ac.uk/w.wang/papers/Soleymani%20et%20al_IFIPNetworking_2024.pdf)
 - Zhang, Keyang, Yueheng Liu, Shuohan Liu, Junqiao Gao, Yue Cao, Naveed Ahmad, and Xu Zhang, "An Urban Electric Vehicle Charging System via Hybrid Heterogeneous Modes," 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2024, pp. 1469-1476, doi: 10.1109/SMC54092.2024.10831814.
 - J. Zhou, Y. Liu, S. Li, Y. Cao, W. Chen and N. Ahmed, "Vehicular Intrusion Detection System Based on Hybrid Quantum Neural Networks," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4185-4190, doi: 10.1109/GLOBECOM52923.2024.10901777.
+- Bac Trinh-Nguyen, Sara Berri, Sin G. Teo, Tram Truong-Huu, and Arsenia Chorti. 2024. A Framework for Global Trust and Reputation Management in 6G Networks: Position Paper. In Machine Learning for Networking: 7th International Conference, MLN 2024, Reims, France, November 27–29, 2024, Revised Selected Papers. Springer-Verlag, Berlin, Heidelberg, 55–72. https://doi.org/10.1007/978-3-032-00552-6_4. [[view pdf]](https://github.com/cfoh/msca-tracev2x/blob/main/mln2024-7.pdf)
   
 ## Invited Talks/Trainings
 
