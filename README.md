@@ -8,6 +8,10 @@ Project description: https://cordis.europa.eu/project/id/101131204
 
 ## Publications
 
+### The following is a list of our publications in 2026
+
+
+
 ### The following is a list of our publications in 2025
 
 - S. Wang, W. Yu, C. H. Foh, Q. Ni, Q. Cheng and L. Wen, "Deep Reinforcement Learning for Resource Allocation in RIS-Assisted NOMA-MEC Vehicular Networks," IEEE Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-7, doi: 10.1109/VTC2025-Fall65116.2025.11309974. [[view pdf]](https://eprints.lancs.ac.uk/id/eprint/233585/1/VTCFall_2025.pdf)
